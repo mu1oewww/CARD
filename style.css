@@ -1,0 +1,166 @@
+.box{
+   margin-left: 30px;
+   margin-top: 50px;
+    width: 320px;
+    text-align: center;
+     color: white ;
+     background-color:rgba(46, 46, 174, 0.767);
+     height: 450px;
+     border-radius: 2%;
+     border: 4px solid black;
+     font-size: 30px;
+     box-shadow: 5px 15px 15px rgba(13, 0, 34, 0.877);
+    }
+    .number{
+        font-size: 18px;
+        font-family:sans-serif;
+        font-weight: 800;
+        color: gray;
+    }
+    .title{
+        font-size: 35px;
+        font-family:sans-serif;
+        font-weight: 900;
+        color: white
+    }   
+    .body{
+        background: black;
+    }
+    .ap{
+        margin: auto;
+        margin-top: 15px;
+        width: 150px;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .image{
+    position: relative;
+    
+
+    }
+    .title:hover{
+        cursor: pointer;
+        color: black !important;
+        transition: 1s;
+        text-decoration: double;
+    } 
+    .number:hover{
+        cursor: pointer;
+        color: black !important;
+        transition: 1s;
+        text-decoration: double;
+    }
+    .image{
+        width: 20px;
+    }
+    .box1{
+    
+        margin-left: 100px;
+        margin-top: 50px;
+         width: 320px;
+         text-align: center;
+          color: white ;
+          background: #f09433; 
+          background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+          background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+          background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+          filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+          box-shadow: 8px 15px 15px rgba(137, 20, 20, 0.877);
+          height: 450px;
+          border-radius: 2%;
+          border: 4px solid black;
+          font-size: 30px;
+         }
+         .number1{  font-size: 18px;
+            font-family:sans-serif;
+            font-weight: 800;
+            color: gray;
+         }
+         .title1{
+             font-size: 35px;
+             font-family:sans-serif;
+             font-weight: 900;
+             color: white
+         }   
+         .ap1{
+             margin: auto;
+             margin-top: 15px;
+             width: 150px;
+             display: flex;
+             justify-content: space-around;
+         }
+         .title1:hover{
+             cursor: pointer;
+             color: black !important;
+             transition: 1s;
+             text-decoration: double;
+         } 
+         .number1:hover{
+             cursor: pointer;
+             color: black !important;
+             transition: 1s;
+             text-decoration: double;
+         }
+         .image1{
+             width: 20px;
+         }
+         .boxx{
+            display: flex;
+            justify-content: space-around;
+         }
+         .box2{
+    
+            margin-left: 100px;
+            margin-top: 50px;
+             width: 320px;
+             text-align: center;
+              color: white ;
+              background-color:rgb(9, 7, 7) !important;;
+              height: 450px;
+              border-radius: 2%;
+              box-shadow:  8px 15px 15px rgb(10, 9, 9);
+              border: 4px solid rgb(254, 253, 253);
+              font-size: 30px;
+             }
+             .number2{  font-size: 18px;
+                font-family:sans-serif;
+                font-weight: 800;
+                color: gray;
+             }
+             .title2{
+                 font-size: 35px;
+                 font-family:sans-serif;
+                 font-weight: 900;
+                 color: white
+             }   
+             .ap2{
+                 margin: auto;
+                 margin-top: 15px;
+                 width: 150px;
+                 display: flex;
+                 justify-content: space-around;
+             }
+             .title2:hover{
+                 cursor: pointer;
+                 color: rgb(102, 95, 95) !important;
+                 transition: 0.5s;
+                 text-decoration: double;
+             } 
+             .number2:hover{
+                 cursor: pointer;
+                 color: rgb(84, 79, 79) !important;
+                 transition: 0.5s;
+                 text-decoration: double;
+             }
+             .image2{
+                 width: 20px;
+             }
+             i:hover{
+               color: rgb(78, 70, 70);
+               transition: 0.2s;
+             }
+             .image12{
+
+                height: 40px;
+             }
